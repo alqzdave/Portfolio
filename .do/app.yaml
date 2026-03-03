@@ -1,0 +1,10 @@
+name: portfolio
+static_sites:
+- name: portfolio
+  github:
+    branch: main
+    deploy_on_push: true
+  routes:
+  - path: /
+  index_document: index.html
+  error_document: index.html
