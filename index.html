@@ -13,8 +13,15 @@
         <div class="nav-container">
             <ul class="nav-menu">
                 <li><a href="#about">ABOUT ME</a></li>
-                <li><a href="#filmography">WORKS</a></li>
-                <li><a href="#theater">COURSE</a></li>
+                <li class="nav-dropdown">
+                    <button class="nav-dropdown-toggle" type="button" aria-expanded="false" aria-controls="worksDropdownMenu">
+                        WORKS <i class="fas fa-chevron-down"></i>
+                    </button>
+                    <ul class="nav-dropdown-menu" id="worksDropdownMenu">
+                        <li><a href="#filmography">Poems</a></li>
+                        <li><a href="#journals">Journals</a></li>
+                    </ul>
+                </li>
                 <li><a href="#reviews">ACHIEVEMENTS</a></li>
                 <li><a href="#home" class="home-icon"><i class="fas fa-home"></i></a></li>
             </ul>
@@ -76,10 +83,10 @@
 
     <!-- About Me Section -->
     <section id="about" class="section about">
+        <div class="about-bg-overlay" aria-hidden="true"></div>
         <div class="container">
-            <h2 class="section-title">About Me</h2>
             <div class="about-content">
-                <p class="about-text">Your about me text here...</p>
+                <p class="about-text"></p>
             </div>
         </div>
     </section>
@@ -230,13 +237,17 @@ Fireflies in the leaves.</p>
                     <div class="carousel-card" data-pos="4">
                         <div class="card-inner">
                             <div class="card-front">
-                                <img src="works/a34bf78211e06e35d4b2f1b458ace614.jpg" alt="Poem 5">
+                                <img src="works/never want to leave this silent.jpg" alt="Never Want to Leave This Silence">
                                 <div class="hover-hint"><span>Click to Read</span></div>
                             </div>
                             <div class="card-back">
-                                <h3>[ Title ng Poem ]</h3>
+                                <h3>Never Want to Leave This Silence</h3>
                                 <div class="poem-text">
-                                    <p>[ Dito poem mo ]</p>
+                                    <p>By: Eyerishlianne
+
+Middlemarch, Huckleberry Finn, The Grapes of Wrath, and Frankenstein. I run my hand over the books—neat, orderly, and perfectly lined up. The light is focused right where I need it. The room is full of a deep silence, yet I find myself humming a quiet tune.
+
+The scent of this place is comforting; I always want to stay a little longer. I pick out a book and a notepad, then settle into the soft couch. It is a peaceful feeling—quiet and calm. A day of rest that still feels productive. I cherish every minute of this stillness. I sip a glass of water, letting the quiet protect me from the loud world outside. I am alone, but I am not lonely. My soul is singing, and my heart beats with a steady, gentle rhythm. I would read a million books just to stay in this home of mine. If I had to choose between the mall and this room, the choice is easy. Reading is a need for me. My phone is away; I have no interest in notifications. But if you want to stay and learn, the door is wide open—if your heart feels the same as mine. Let the words in these letters bring you joy and help you reach your wildest dreams.</p>
                                 </div>
                             </div>
                         </div>
@@ -248,22 +259,63 @@ Fireflies in the leaves.</p>
         </div>
     </section>
 
-    <!-- Course Section -->
-    <section id="theater" class="section theater">
+    <!-- Journals Section -->
+    <section id="journals" class="section journals">
+        <img class="journals-bg-video" src="BG Journals/photo_2026-04-03_21-25-51.jpg" alt="Journals background">
+        <div class="journals-bg-overlay" aria-hidden="true"></div>
         <div class="container">
-            <h2 class="section-title">Course</h2>
-            <div class="theater-grid">
-                <!-- Add your course items here -->
+            <h2 class="section-title">Journals</h2>
+            <div class="journals-actions">
+                <!-- ProfEd Card -->
+                <div class="journal-card" data-type="profd">
+                    <div class="journal-card-inner">
+                        <img class="journal-card-cover" src="reflection/ProfEd.jpg" alt="PROF ED 10">
+                        <div class="journal-card-overlay">
+                            <div class="journal-card-info">
+                                <span class="journal-code">PROF ED 10</span>
+                                <span class="journal-title">Building and Enhancing New Literacies</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Elective Card -->
+                <div class="journal-card" data-type="elective">
+                    <div class="journal-card-inner">
+                        <img class="journal-card-cover" src="reflection/Elective.jpg" alt="ELECTIVE 1">
+                        <div class="journal-card-overlay">
+                            <div class="journal-card-info">
+                                <span class="journal-code">ELECTIVE 1</span>
+                                <span class="journal-title">Teaching Multi-Grade Classes</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
 
+    <!-- Reflections Modal -->
+    <div class="reflections-modal" id="reflectionsModal">
+        <div class="reflections-modal-content">
+            <button class="reflections-modal-close" id="reflectionsModalClose">&times;</button>
+            <div class="reflections-modal-header">
+                <h2 id="reflectionsTitle"></h2>
+            </div>
+            <div class="reflections-modal-body" id="reflectionsBody">
+            </div>
+        </div>
+    </div>
+
     <!-- Achievements Section -->
     <section id="reviews" class="section reviews">
         <div class="container">
-            <h2 class="section-title">Achievements</h2>
-            <div class="reviews-grid">
-                <!-- Add your achievements here -->
+            <div class="studio-scene" aria-label="Certificate studio display">
+                <div class="cert-showcase-header">
+                    <h2 class="section-title">Achievements</h2>
+                    <p class="cert-showcase-subtitle">Studio pictorial inspired wall of certificates and milestones</p>
+                </div>
+                <img class="studio-photo" src="studio cert/Black and White Modern Coming Soon Facebook Post.png" alt="Certificate studio layout">
             </div>
         </div>
     </section>
