@@ -359,6 +359,34 @@ My understanding of family support has evolved from seeing it as a "leash" to se
 
 True independence isn't just "doing it my way"; it is having the confidence to listen to the "roots" (my mother’s experience) without feeling like I am losing my "wings." I’ve learned that I can acknowledge her way while still refining my own. Our parents find it hard to say "you are ready" because, to them, the world is always a little bit dangerous for our wings. Now, instead of arguing, I try to communicate. I realize that the "Not Yet" in the story isn't a permanent "No"—it is a "Wait, let me make sure you’re strong enough first."`;
 
+const electiveBeforeNowAfterBridgeLearningText = `Listening to the discussion today on the Before, Now, and After-Bridge Learning framework really shifted my perspective on what it means to be an effective educator. I used to think that teaching was mostly about delivering a lecture and hoping the students caught on, but this report helped me realize that learning is a continuous journey with distinct stages that require careful planning. The "Before" stage is such a crucial starting point because it forces us to look at our students’ prior knowledge and even their misconceptions. It reminds me that every child enters the classroom with their own experiences, and as a future teacher, I need to meet them where they are rather than where I expect them to be. Moving into the "Now" phase, I learned that this is where the real magic happens—it is the active process of engagement where the teacher facilitates the "Bridge." This bridge is not just a path but a set of strategies like scaffolding, hands-on activities, and relatable examples that connect the old information to the new. It made me realize that my role is to be a guide, helping students cross over from confusion to clarity. Then there is the "After" stage, which is more than just a test or a grade; it is about reflection and seeing how the student can apply what they have learned to the real world. It’s the moment where the learning becomes permanent and meaningful. This framework taught me that teaching isn't a one-way street but a structured process of growth. It highlights the importance of being intentional with every lesson, ensuring that I am not just covering the curriculum but actually building a solid foundation for my students. Understanding this concept gives me more confidence as I prepare for my own future classroom, as I now see how to design lessons that respect where a student starts and celebrate where they end up. It makes the entire process of education feel more human and connected, focusing on the growth of the learner rather than just the delivery of the content. I am now more aware that every lesson I plan must have a strong bridge, ensuring no student is left behind on the other side of understanding.`;
+
+const electiveRealiaAndManipulativeObjectsText = `The discussion about Realia and Manipulative Objects today was a wonderful eye-opener because it reminded me that for elementary students, seeing and touching is often more powerful than just hearing a lecture. In our future classrooms, "Realia" refers to real-life objects that we bring in to make a lesson feel more authentic and grounded. Instead of just showing a picture of a specific plant or a traditional cultural item, bringing the actual object into the room allows students to observe its texture, weight, and even its smell. This truly bridges the gap between the classroom environment and the real world, making the lesson feel alive and relevant to their everyday lives. On the other hand, "Manipulative Objects" are tools like counting blocks, geometric shapes, or puzzles that students can physically move to solve problems or understand a concept. This is especially helpful in subjects like Mathematics or Science where abstract ideas can be very confusing for a young mind. By moving a block or a counter, a child isn't just memorizing a number on a page; they are physically building their understanding of how quantities and structures work. What I learned most from this report is that as a teacher, I shouldn't just rely on textbooks or simple drawings on the board. Young learners are naturally curious and energetic, and they learn best when they can use their hands to explore. When students handle objects, they become active participants in their own learning rather than just passive listeners. This multisensory approach caters to all types of learners, especially those who may struggle with traditional teaching methods. However, I also realized through the discussion that using these tools requires very careful planning. It isn’t enough to just give students objects to play with; the teacher must guide the interaction to ensure the activity leads to a specific learning goal. I now understand that my role is to curate the right materials that will spark curiosity and make difficult topics easier to grasp. This lesson has made me more excited to gather and create my own set of teaching aids for my future students. I want my classroom to be a place filled with things students can touch and explore because I believe that the simplest object can often be the most effective tool in helping a child finally understand a complex lesson.`;
+
+const electivePurposefulTalkAndShadowingPracticeText = `Purposeful Talk and Shadowing Practice in today’s session offered a profound look into the social and observational layers of teaching. A concept that truly shifted my thinking is "Dialogic Inquiry," which moves the classroom away from a simple "question-and-answer" format into a space where talk is used to investigate and uncover deeper meanings. It taught me that my future role isn't just to talk at students, but to orchestrate "Productive Discursive Spaces" where every child feels empowered to contribute their unique perspective to a shared goal.
+
+I was also deeply intrigued by the strategy of "Shadowing Practice," which serves as a form of "Educational Ethnography." By metaphorically stepping into a student's shoes and observing their entire academic day, I can identify the "Affective Filters"—like boredom, anxiety, or physical exhaustion—that often block learning but go unnoticed by teachers at the podium. This practice emphasizes that being an effective educator requires a high level of "Contextual Sensitivity," ensuring we are teaching the actual children in front of us rather than a theoretical version of them.
+
+Another vital term that stood out was "Intellectual Scaffolding." Through purposeful talk, a teacher provides the verbal support students need to reach higher levels of thinking that they couldn't achieve alone. This reinforces the idea that the classroom is a collaborative workshop where language is the primary tool for construction. I now realize that to be a successful BEEd graduate, I must master the art of the "Reflective Pause" and the "Strategic Prompt," allowing students the time and space to process information deeply.
+
+In summary, these topics have reshaped my identity as a future teacher from a "transmitter of facts" to a "Facilitator of Meaning-Making." I am now more committed than ever to creating a classroom environment where communication is intentional and where my observations lead to real, empathetic changes in how I teach. Integrating these practices into my future demonstrations will help me ensure that my lessons are not just heard, but are truly experienced and understood by every learner.`;
+
+const electiveCooperativeLearningDifferentiatedInstructionText = `Today’s discussion on Cooperative Learning and Differentiated Instruction highlighted how a classroom can be transformed into a dynamic ecosystem where every student has a place. One of the most interesting terms I learned is "Positive Interdependence," which is the heart of cooperative learning. It means that in a group, students realize they "sink or swim together." This isn't just about working in groups; it’s about creating a structure where each member has a specific role, making everyone feel responsible for the team’s success. It taught me that my future classroom should not be a competition, but a community where students learn to support one another’s growth.
+
+We also explored the concept of "Tiered Activities" within Differentiated Instruction. This idea really resonated with me because it acknowledges that "fairness" doesn't mean treating every student exactly the same; it means giving every student what they need to succeed. By using tiered lessons, I can teach the same core concept to the whole class while varying the complexity of the tasks based on each student's readiness and learning style. Whether a student is a visual learner, a logical thinker, or someone who needs extra support, differentiation ensures that the lesson is neither too easy nor too frustratingly difficult for them.
+
+Another term that stood out was "Flexible Grouping." This is the practice of moving students in and out of different groups based on the specific task or their current progress, rather than keeping them in the same "ability" groups all year. This keeps the classroom environment fresh and prevents students from feeling stuck in a specific label. I realized that as a future educator, my goal is to be a facilitator of equity. I need to be observant and agile enough to adjust my teaching "on the fly" to meet the diverse needs of my learners.
+
+Ultimately, these two strategies work hand-in-hand to create an inclusive environment. Cooperative learning builds the social and emotional skills students need, while differentiated instruction honors their individual academic paths. I now understand that a successful teacher is like an architect who designs multiple entry points into a single lesson. I am excited to apply these "human-centered" approaches in my future teaching demonstrations, ensuring that every child—regardless of their starting point—feels capable, valued, and challenged to reach their full potential.`;
+
+const electiveCallAndResponseLearningStationsText = `Call and Response and Learning Stations in today’s discussion offered a vibrant look into how classroom structure and rhythm can maximize student participation. One of the most engaging concepts I encountered was "Choral Response," which serves as a powerful tool for "Collective Engagement." It taught me that when a teacher uses a rhythmic or verbal cue to gather attention, it does more than just keep the room quiet—it builds a sense of unity and momentum. Instead of a one-way lecture, the classroom becomes a collaborative space where students are physically and vocally involved in the lesson, reducing the "passive listening" that often leads to distraction.
+
+We also delved into the strategy of "Learning Stations," which functions as a form of "Differentiated Circuit Training" for the brain. This approach transforms the classroom into a series of "Task-Oriented Zones," where small groups of students rotate through different activities, such as a "reading nook," a "manipulative center," or a "digital station." This setup is a perfect example of "Self-Directed Exploration," as it allows students to take ownership of their learning pace and style. It made me realize that as a future teacher, I don't always have to be at the center of the room; I can be a "guide on the side" while students navigate these purposeful environments.
+
+Another key term that resonated with me was "Transitions Management." Moving from one station to another or shifting from a call-and-response moment back to independent work requires a clear "bridge" to maintain order. I learned that a successful teacher uses "Auditory Cues" and "Visual Timers" to make these movements seamless and efficient. This focus on flow ensures that no instructional time is wasted and that the energy of the students is channeled toward the learning objective.
+
+Ultimately, these strategies have redefined my view of classroom management. I now see myself as a "Conductor of Learning," using call and response to set the tempo and learning stations to provide diverse pathways for discovery. I am excited to implement these dynamic methods in my future teaching demonstrations at MinSU, as they will help me create a high-energy, inclusive, and organized classroom where every child stays active and involved. It’s about moving away from static rows of desks and moving toward a lively, structured environment where learning is felt and experienced.`;
+
 function attachReflectionButtonHandlers(reflectionsBody) {
     const outputCard = reflectionsBody.querySelector('.reflection-output-card');
     const outputTitle = reflectionsBody.querySelector('#reflectionOutputTitle');
@@ -420,6 +448,27 @@ function attachReflectionButtonHandlers(reflectionsBody) {
             } else if (btnLabel.startsWith('The Battle of the Mop')) {
                 outputTitle.textContent = 'The Battle of the Mop—Wings, Roots, and Housework';
                 outputText.innerHTML = formatReflectionText(battleOfTheMopText);
+            } else if (btnLabel === 'Before Now and After-Bridge Learning') {
+                outputTitle.textContent = 'Before Now and After-Bridge Learning';
+                outputText.innerHTML = formatReflectionText(electiveBeforeNowAfterBridgeLearningText);
+            } else if (btnLabel === 'Realia and Manipulative Objects') {
+                outputTitle.textContent = 'Realia and Manipulative Objects';
+                outputText.innerHTML = formatReflectionText(electiveRealiaAndManipulativeObjectsText);
+            } else if (btnLabel === 'Purposeful Talk and Shadowing Practice') {
+                outputTitle.textContent = 'Purposeful Talk and Shadowing Practice';
+                outputText.innerHTML = formatReflectionText(electivePurposefulTalkAndShadowingPracticeText);
+            } else if (btnLabel === 'Cooperative Learning and Differentiated Instruction') {
+                outputTitle.textContent = 'Cooperative Learning and Differentiated Instruction';
+                outputText.innerHTML = formatReflectionText(electiveCooperativeLearningDifferentiatedInstructionText);
+            } else if (btnLabel === '5') {
+                outputTitle.textContent = '5';
+                outputText.innerHTML = formatReflectionText('Reflection content for this topic will be added soon.');
+            } else if (btnLabel === '6') {
+                outputTitle.textContent = '6';
+                outputText.innerHTML = formatReflectionText('Reflection content for this topic will be added soon.');
+            } else if (btnLabel === 'Call and Response, And Learning Stations') {
+                outputTitle.textContent = 'Call and Response, And Learning Stations';
+                outputText.innerHTML = formatReflectionText(electiveCallAndResponseLearningStationsText);
             } else {
                 outputTitle.textContent = btnLabel;
                 outputText.innerHTML = formatReflectionText('Reflection content for this topic will be added soon.');
@@ -475,7 +524,22 @@ document.querySelectorAll('.journal-card').forEach(card => {
             attachReflectionButtonHandlers(body);
         } else if (type === 'elective') {
             title.textContent = 'ELECTIVE 1 - Teaching Multi-Grade Classes';
-            body.innerHTML = '<p class="empty-message">Coming soon...</p>';
+            body.innerHTML = `
+                <div class="reflection-buttons-grid reflection-buttons-grid-elective">
+                    <button class="reflection-topic-btn" type="button">Before Now and After-Bridge Learning</button>
+                    <button class="reflection-topic-btn" type="button">Realia and Manipulative Objects</button>
+                    <button class="reflection-topic-btn" type="button">Purposeful Talk and Shadowing Practice</button>
+                    <button class="reflection-topic-btn" type="button">Cooperative Learning and Differentiated Instruction</button>
+                    <button class="reflection-topic-btn" type="button">5</button>
+                    <button class="reflection-topic-btn" type="button">6</button>
+                    <button class="reflection-topic-btn" type="button">Call and Response, And Learning Stations</button>
+                </div>
+                <div class="reflection-output-card" id="reflectionOutputCard">
+                    <h3 id="reflectionOutputTitle">Select a reflection button</h3>
+                    <div id="reflectionOutputText" class="reflection-output-text"><p>Click a topic button to show the reflection here.</p></div>
+                </div>
+            `;
+            attachReflectionButtonHandlers(body);
         }
 
         modal.classList.add('show');

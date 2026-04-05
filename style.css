@@ -1234,6 +1234,11 @@ body {
     gap: 1.5rem;
 }
 
+.reflection-buttons-grid-elective {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0.8rem;
+}
+
 .reflection-output-card {
     display: none;
     margin-top: 1.5rem;
