@@ -559,3 +559,44 @@ reflectionsModal.addEventListener('click', (e) => {
         reflectionsModal.classList.remove('show');
     }
 });
+
+// Studio Cert Carousel
+const studioPages = document.querySelectorAll('.studio-page');
+const studioDots = document.querySelectorAll('.studio-dot');
+let currentStudioPage = 1;
+
+function showStudioPage(pageNum) {
+    studioPages.forEach(page => page.style.display = 'none');
+    studioDots.forEach(dot => dot.classList.remove('active'));
+    
+    if (pageNum === 1) {
+        document.getElementById('studioPage1').style.display = 'block';
+        document.querySelector('[data-page="1"]').classList.add('active');
+    } else {
+        document.getElementById('studioPage2').style.display = 'block';
+        document.querySelector('[data-page="2"]').classList.add('active');
+    }
+    currentStudioPage = pageNum;
+}
+
+const studioPrevBtn = document.getElementById('studioPrev');
+const studioNextBtn = document.getElementById('studioNext');
+
+if (studioPrevBtn && studioNextBtn) {
+    studioPrevBtn.addEventListener('click', () => {
+        currentStudioPage = currentStudioPage === 1 ? 2 : 1;
+        showStudioPage(currentStudioPage);
+    });
+    
+    studioNextBtn.addEventListener('click', () => {
+        currentStudioPage = currentStudioPage === 1 ? 2 : 1;
+        showStudioPage(currentStudioPage);
+    });
+}
+
+studioDots.forEach(dot => {
+    dot.addEventListener('click', () => {
+        const pageNum = parseInt(dot.getAttribute('data-page'));
+        showStudioPage(pageNum);
+    });
+});

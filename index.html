@@ -315,7 +315,18 @@ The scent of this place is comforting; I always want to stay a little longer. I 
                     <h2 class="section-title">Achievements</h2>
                     <p class="cert-showcase-subtitle">Studio pictorial inspired wall of certificates and milestones</p>
                 </div>
-                <img class="studio-photo" src="studio cert/Black and White Modern Coming Soon Facebook Post.png" alt="Certificate studio layout">
+                <div class="studio-carousel-container">
+                    <button class="studio-carousel-btn studio-carousel-prev" id="studioPrev" aria-label="Previous page">&#10094;</button>
+                    <div class="studio-carousel-wrapper">
+                        <img class="studio-photo studio-page" id="studioPage1" src="studio cert/Black and White Modern Coming Soon Facebook Post.png" alt="Certificate studio page 1">
+                        <img class="studio-photo studio-page" id="studioPage2" src="studio cert/second page cert.jpg" alt="Certificate studio page 2" style="display:none;">
+                    </div>
+                    <button class="studio-carousel-btn studio-carousel-next" id="studioNext" aria-label="Next page">&#10095;</button>
+                    <div class="studio-page-indicator">
+                        <span class="studio-dot active" data-page="1"></span>
+                        <span class="studio-dot" data-page="2"></span>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
