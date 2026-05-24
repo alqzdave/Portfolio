@@ -8,6 +8,7 @@
     --dark-bg: #1a1a1a;
     --text-light: #ffffff;
     --text-muted: #b0b0b0;
+    --site-footer-height: 150px;
 }
 
 * {
@@ -1376,7 +1377,8 @@ body {
     background: linear-gradient(180deg, #f3f3f3 0%, #ececec 100%);
     position: relative;
     overflow: hidden;
-    min-height: 100vh;
+    min-height: calc(100dvh - var(--site-footer-height));
+    height: calc(100dvh - var(--site-footer-height));
     padding-top: 0;
     padding-bottom: 0;
     padding-left: 0;
@@ -1479,16 +1481,20 @@ body {
 
 .studio-scene {
     position: relative;
-    width: 100%;
+    width: 100vw;
     margin: 0;
-    min-height: 100vh;
-    height: 100vh;
+    padding: 0;
+    min-height: calc(100dvh - var(--site-footer-height));
+    height: calc(100dvh - var(--site-footer-height));
     border-radius: 0;
     background: linear-gradient(180deg, #bdbdc1 0%, #c9c9cc 40%, #d4d4d7 100%);
-    border-top: 1px solid rgba(120, 120, 120, 0.16);
-    border-bottom: 1px solid rgba(120, 120, 120, 0.16);
+    border: none;
     box-shadow: none;
     overflow: hidden;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
 }
 
 .studio-set {
@@ -1716,6 +1722,102 @@ body {
     align-self: flex-start;
 }
 
+.site-footer {
+    background: linear-gradient(180deg, #1f1b17 0%, #151210 100%);
+    border-top: 1px solid rgba(192, 174, 148, 0.32);
+    height: var(--site-footer-height);
+    padding: 0.55rem 1.5rem;
+    display: flex;
+    align-items: center;
+}
+
+.site-footer-content {
+    max-width: 1400px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    gap: 1.2rem;
+    flex-wrap: nowrap;
+}
+
+.site-footer-main {
+    flex: 1;
+    min-width: 0;
+}
+
+.site-footer-title {
+    margin: 0 0 0.3rem;
+    color: #f4ead8;
+    font-size: 1rem;
+    letter-spacing: 0.6px;
+    font-weight: 600;
+}
+
+.site-footer-ref {
+    margin: 0 0 0.3rem;
+    color: rgba(242, 233, 220, 0.86);
+    font-size: 0.79rem;
+    line-height: 1.35;
+}
+
+.site-footer-ref:last-child {
+    margin-bottom: 0;
+}
+
+.site-footer-ref a {
+    color: #d9c4a3;
+    text-decoration: none;
+    border-bottom: 1px dashed rgba(217, 196, 163, 0.55);
+}
+
+.site-footer-ref a:hover {
+    color: #fff;
+    border-bottom-color: rgba(255, 255, 255, 0.75);
+}
+
+.site-footer-side {
+    width: 235px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.site-footer-text {
+    color: rgba(245, 238, 228, 0.86);
+    font-size: 0.84rem;
+    margin: 0;
+    text-align: right;
+}
+
+.site-footer-links {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+}
+
+.site-footer-links a {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 1px solid rgba(192, 174, 148, 0.4);
+    color: var(--sand);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    transition: all 0.25s ease;
+}
+
+.site-footer-links a:hover {
+    background: rgba(192, 174, 148, 0.18);
+    color: #fff;
+    border-color: rgba(192, 174, 148, 0.65);
+}
+
 /* Responsive */
 @media (max-width: 968px) {
     .hamburger {
@@ -1792,6 +1894,28 @@ body {
         flex-direction: column;
         gap: 2rem;
     }
+
+    .site-footer {
+        height: auto;
+        min-height: var(--site-footer-height);
+        padding: 1rem;
+    }
+
+    .site-footer-content {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.8rem;
+    }
+
+    .site-footer-side {
+        width: 100%;
+        align-items: flex-start;
+        gap: 0.6rem;
+    }
+
+    .site-footer-text {
+        text-align: left;
+    }
 }
 
 @media (max-width: 640px) {
@@ -1818,8 +1942,8 @@ body {
 
     .studio-scene {
         aspect-ratio: auto;
-        height: 100vh;
-        min-height: 100vh;
+        height: calc(100dvh - var(--site-footer-height));
+        min-height: calc(100dvh - var(--site-footer-height));
         border: 1px solid rgba(120, 120, 120, 0.16);
         border-radius: 0;
         width: 100%;

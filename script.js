@@ -379,6 +379,44 @@ Another term that stood out was "Flexible Grouping." This is the practice of mov
 
 Ultimately, these two strategies work hand-in-hand to create an inclusive environment. Cooperative learning builds the social and emotional skills students need, while differentiated instruction honors their individual academic paths. I now understand that a successful teacher is like an architect who designs multiple entry points into a single lesson. I am excited to apply these "human-centered" approaches in my future teaching demonstrations, ensuring that every child—regardless of their starting point—feels capable, valued, and challenged to reach their full potential.`;
 
+const electiveRolePlayingReinforcementText = `Listening to my classmate’s report today about role-playing and reinforcement gave me a lot of wonderful ideas as a third-year BEEd student preparing for my future classroom. I learned that role-playing is not just a fun game to pass the time; it is a very powerful teaching tool, especially for young elementary learners. When we ask young students to act out a specific situation, we are helping them step into someone else’s shoes. This makes the lesson feel real, meaningful, and alive. It helps them understand difficult ideas much better because they are physically experiencing the lesson instead of just listening to me talk in front. It also builds their confidence in public speaking and teaches them deep empathy as they interact with their peers. On the other hand, the discussion about reinforcement reminded me of how important a teacher’s reaction is to a student’s behavior. I realized that reinforcement, especially positive reinforcement like praising a student, giving a simple smile, or offering small rewards, works like magic in an elementary classroom. It encourages them to keep doing good things, follow the rules, and participate more actively in discussions. When a child feels truly seen and appreciated by their teacher, they are naturally motivated to learn more. Together, these two strategies are a perfect match. I can use role-playing to make my lessons exciting and highly interactive, and I can use positive reinforcement to gently guide my students' behavior and keep their energy focused in the right direction. As a future professional teacher, my goal is to always create a classroom where children feel totally safe to express themselves. Today’s report clearly showed me that combining creative activities like role-playing with the kind, supportive push of positive reinforcement will help me build that happy learning environment.`;
+
+const electiveLectureMethodThinkPairShareText = `This strategy gave me a clear perspective on how to balance traditional teaching with active learning in an elementary classroom. As a third-year BEEd student, I used to think that lecturing was an outdated way of teaching, but the discussion made me realize it still has a place. It is a very direct and organized way to give students core information, especially when introducing a completely new topic. However, I also learned that long, continuous lectures can easily cause young elementary learners to lose attention and get bored. That is why the introduction of the Think-Pair-Share strategy felt like the perfect solution. I love how this method breaks up the teacher's talking time and instantly puts the focus back on the kids. First, students get a quiet moment to think about a question on their own, which gives even the shyest children a chance to gather their thoughts without pressure. Then, they pair up with a seatmate to talk about it, which builds their communication skills and makes them feel safe sharing ideas in a small setting. Finally, they share their thoughts with the whole class, building their team spirit and confidence. Reflecting on this, I realize that the best teaching does not rely on just one style. In my future classroom, I want to combine both methods seamlessly. I can use a short, engaging lecture to explain a basic concept, and then immediately transition into a Think-Pair-Share activity to keep my students energized, collaborating, and thinking deeply. This report reminded me that being an effective teacher means knowing when to speak to give direction, and when to step back so that our young learners can learn from one another.`;
+
+const electiveDebateAndStoryTellingText = `This made me realize how beautiful and diverse our teaching strategies can be for elementary learners. As a third-year BEEd student, I found the contrast between these two methods completely fascinating. Storytelling is an absolute treasure for young kids because it taps into their natural imagination. I learned that when a teacher tells a story with expressions and feelings, it makes the lesson unforgettable. It helps children build strong listening skills, expands their vocabulary, and teaches them valuable moral lessons in a gentle, creative way. On the other hand, debate might seem a bit advanced for the elementary grades, but the discussion showed me it is an amazing way to develop critical thinking early on. Even simple, friendly debates—like choosing between two favorite topics—teach students how to express their opinions clearly, listen to opposing views respectfully, and reason out their choices. It builds immense confidence and teaches them how to express their thoughts with courage. Reflecting on this report, I see that storytelling and debate work together perfectly to develop different parts of a child's mind. Storytelling opens up their hearts and creativity, while friendly debates sharpen their logic and communication skills. In my future classroom, I do not have to stick to just reading from a textbook. I can use storytelling to introduce a topic warmly and touch my students' emotions, and then use a simple debate to get them actively discussing and defending their ideas. Today's discussion deeply inspired me to become a teacher who knows how to blend imagination with critical thinking to create a lively, balanced, and truly engaging classroom for every child.`;
+
+const electiveScaffoldingDirectInstructionAndGameBasedMovementStrategiesText = `Delivering my own report today on Scaffolding and Direct Instruction, alongside Game-Based and Movement Strategies, was an incredibly rewarding experience that deepened my understanding of how to be an effective elementary teacher. Sharing these concepts with my classmates made me reflect on how a well-balanced classroom requires both strong structure and active, joyful engagement.
+
+When I discussed Direct Instruction and Scaffolding, I realized how essential it is to guide young learners step-by-step. Direct instruction allows me to explain new and difficult concepts clearly, ensuring no child feels lost at the beginning of a lesson. But teaching cannot stop at just lecturing; that is where scaffolding comes in. By providing temporary support—like visual aids, prompts, or breaking a large task into smaller, bite-sized pieces—I can help my students build confidence. As they slowly master the skill, I can gently fade that support away, allowing them to become independent, self-assured learners.
+
+On the other hand, preparing the segment on Game-Based and Movement Strategies reminded me that children naturally learn through play. Elementary students have so much energy, and instead of forcing them to sit still for hours, incorporating movement and games keeps them completely focused and excited. Whether it is a math race or a language game, turning a lesson into a playful challenge removes the fear of making mistakes.
+
+Reflecting on my report, I now see that these strategies are not separate choices; they are meant to work hand-in-hand. In my future classroom, I can use direct instruction and scaffolding to lay a solid foundation for a lesson, and then immediately transition into a high-energy game to let my students practice what they learned. This balance of structured guidance and active play is exactly how I want to shape a happy, dynamic learning environment for my future students.`;
+
+const electiveGamificationAndClassGroupDiscussionText = `This showed me how powerful it is to blend healthy excitement with meaningful conversation in an elementary classroom. As a third-year BEEd student, this discussion gave me practical ideas on how to keep young learners fully focused and participating.
+
+I learned that gamification is not just about playing games; it means taking fun game elements—like earning points, leveling up, getting badges, or friendly challenges—and adding them to everyday lessons. This strategy is a brilliant way to capture the short attention spans of elementary pupils. It turns tough or repetitive tasks into exciting goals, making children highly motivated to finish their work and do their best because learning suddenly feels like an adventure.
+
+However, the report also reminded me that excitement needs to be balanced with deep thinking, which is where class and group discussions come in. When we give students a chance to sit together and talk, we are giving them a safe space to express their thoughts, listen to different perspectives, and learn from their peers. It teaches them cooperation, respect, and how to communicate clearly. Instead of just quietly absorbing information, a good discussion forces them to process and understand the lesson deeply.
+
+Reflecting on this, I realize these two methods work beautifully as a team. In my future classroom, I can use gamification to spark enthusiasm and get my students energized about a topic, and then transition into a group discussion where they can calmly share and examine what they learned. Combining the high energy of gamification with the thoughtful connection of discussion will help me create a classroom that is both incredibly fun and deeply intellectual for my future students.`;
+
+const electivePhenomenonBasedLearningAndTransdisciplinaryApproachText = `These strategies opened my eyes to a whole new way of teaching elementary students. As a third-year BEEd student, I found these ideas so refreshing because they break away from the old style of teaching subjects in strict, separate boxes.
+
+I learned that Phenomenon-Based Learning starts with a real-world event or topic that kids can actually see and experience around them—like a local storm, how trash decomposes, or why plants grow toward the light. Instead of just reading a chapter in a textbook, students study this real-world "phenomenon" directly. This makes learning instantly interesting to young minds because it connects directly to their actual lives, turning them into little investigators who want to find answers.
+
+The Transdisciplinary Approach fits perfectly with this because real-world problems do not belong to just one subject. When students study a phenomenon, they naturally use Science, Math, Reading, and Social Studies all at the same time to solve it. For example, if they are studying a local typhoon, they might read about weather patterns (Science), count rainfall data (Math), and write a poem about community safety (Language Arts). It teaches children how the world is completely connected, rather than forcing them to memorize isolated facts for a single test.
+
+Reflecting on this report, I realize that this is exactly how we can make school meaningful for young learners. In my future classroom, I want to move away from just saying, "Open your book to page ten." Instead, I want to bring real-world mysteries into the classroom, using a transdisciplinary focus to show my students that everything they learn has a purpose. This discussion deeply inspired me to be a teacher who helps children understand and care about the world they live in.`;
+
+const electiveVideoBasedAnchoredInstructionAndVideoInitiatedRolePlayText = `This truly showed me how technology and creativity can come together to make an amazing elementary classroom. As a third-year BEEd student, I learned that these strategies are perfect for catching the attention of today's visual-learning generation.
+
+First, Video-Based Anchored Instruction taught me the importance of using a short, interesting video as an "anchor" or a base for the lesson. Instead of just lecturing, a teacher can show an exciting clip that contains a real-world problem. This visual anchor gives the whole class a shared experience to talk about, look into, and solve together. It makes abstract lessons instantly concrete and easy to understand for young learners.
+
+Building on that, the Video-Initiated Role-Play strategy takes learning a step further through drama. In this method, students watch a video clip that stops at a dramatic or critical moment, and then they must act out what happens next. I realized this is a brilliant form of drama-based learning. It forces children to think critically, use their imagination, and practice deep empathy as they figure out how the characters should react and solve the problem in real life.
+
+Reflecting on this final report, I see how beautifully these two strategies connect. In my future classroom, I can use a video clip to firmly anchor a tough concept, and then immediately transition into a role-play activity to let my students physically live out the solution. This combination not only keeps the classroom high-energy and fun, but it also helps young learners build vital communication, teamwork, and problem-solving skills that will stay with them forever.`;
+
 const electiveCallAndResponseLearningStationsText = `Call and Response and Learning Stations in today’s discussion offered a vibrant look into how classroom structure and rhythm can maximize student participation. One of the most engaging concepts I encountered was "Choral Response," which serves as a powerful tool for "Collective Engagement." It taught me that when a teacher uses a rhythmic or verbal cue to gather attention, it does more than just keep the room quiet—it builds a sense of unity and momentum. Instead of a one-way lecture, the classroom becomes a collaborative space where students are physically and vocally involved in the lesson, reducing the "passive listening" that often leads to distraction.
 
 We also delved into the strategy of "Learning Stations," which functions as a form of "Differentiated Circuit Training" for the brain. This approach transforms the classroom into a series of "Task-Oriented Zones," where small groups of students rotate through different activities, such as a "reading nook," a "manipulative center," or a "digital station." This setup is a perfect example of "Self-Directed Exploration," as it allows students to take ownership of their learning pace and style. It made me realize that as a future teacher, I don't always have to be at the center of the room; I can be a "guide on the side" while students navigate these purposeful environments.
@@ -460,12 +498,27 @@ function attachReflectionButtonHandlers(reflectionsBody) {
             } else if (btnLabel === 'Cooperative Learning and Differentiated Instruction') {
                 outputTitle.textContent = 'Cooperative Learning and Differentiated Instruction';
                 outputText.innerHTML = formatReflectionText(electiveCooperativeLearningDifferentiatedInstructionText);
-            } else if (btnLabel === '5') {
-                outputTitle.textContent = '5';
-                outputText.innerHTML = formatReflectionText('Reflection content for this topic will be added soon.');
-            } else if (btnLabel === '6') {
-                outputTitle.textContent = '6';
-                outputText.innerHTML = formatReflectionText('Reflection content for this topic will be added soon.');
+            } else if (btnLabel === 'Role Playing & Reinforcement') {
+                outputTitle.textContent = 'Role Playing & Reinforcement';
+                outputText.innerHTML = formatReflectionText(electiveRolePlayingReinforcementText);
+            } else if (btnLabel === 'Lecture Method, Think Pair Share') {
+                outputTitle.textContent = 'Lecture Method, Think Pair Share';
+                outputText.innerHTML = formatReflectionText(electiveLectureMethodThinkPairShareText);
+            } else if (btnLabel === 'Debate and Story Telling') {
+                outputTitle.textContent = 'Debate and Story Telling';
+                outputText.innerHTML = formatReflectionText(electiveDebateAndStoryTellingText);
+            } else if (btnLabel === 'Scaffolding & Direct Instruction and Game-Based & Movement Strategies') {
+                outputTitle.textContent = 'Scaffolding & Direct Instruction and Game-Based & Movement Strategies';
+                outputText.innerHTML = formatReflectionText(electiveScaffoldingDirectInstructionAndGameBasedMovementStrategiesText);
+            } else if (btnLabel === 'Gamification & Class/ Group Discussion') {
+                outputTitle.textContent = 'Gamification & Class/ Group Discussion';
+                outputText.innerHTML = formatReflectionText(electiveGamificationAndClassGroupDiscussionText);
+            } else if (btnLabel === 'Phenomenon -Based Learning & Transdisciplinary Approach') {
+                outputTitle.textContent = 'Phenomenon -Based Learning & Transdisciplinary Approach';
+                outputText.innerHTML = formatReflectionText(electivePhenomenonBasedLearningAndTransdisciplinaryApproachText);
+            } else if (btnLabel === 'Video-Based Anchored Instruction Strategy AND Video-Initiated Role-Play Strategy (Drama-Based Learning)') {
+                outputTitle.textContent = 'Video-Based Anchored Instruction Strategy AND Video-Initiated Role-Play Strategy (Drama-Based Learning)';
+                outputText.innerHTML = formatReflectionText(electiveVideoBasedAnchoredInstructionAndVideoInitiatedRolePlayText);
             } else if (btnLabel === 'Call and Response, And Learning Stations') {
                 outputTitle.textContent = 'Call and Response, And Learning Stations';
                 outputText.innerHTML = formatReflectionText(electiveCallAndResponseLearningStationsText);
@@ -530,8 +583,13 @@ document.querySelectorAll('.journal-card').forEach(card => {
                     <button class="reflection-topic-btn" type="button">Realia and Manipulative Objects</button>
                     <button class="reflection-topic-btn" type="button">Purposeful Talk and Shadowing Practice</button>
                     <button class="reflection-topic-btn" type="button">Cooperative Learning and Differentiated Instruction</button>
-                    <button class="reflection-topic-btn" type="button">5</button>
-                    <button class="reflection-topic-btn" type="button">6</button>
+                    <button class="reflection-topic-btn" type="button">Role Playing & Reinforcement</button>
+                    <button class="reflection-topic-btn" type="button">Lecture Method, Think Pair Share</button>
+                    <button class="reflection-topic-btn" type="button">Debate and Story Telling</button>
+                    <button class="reflection-topic-btn" type="button">Scaffolding & Direct Instruction and Game-Based & Movement Strategies</button>
+                    <button class="reflection-topic-btn" type="button">Gamification & Class/ Group Discussion</button>
+                    <button class="reflection-topic-btn" type="button">Phenomenon -Based Learning & Transdisciplinary Approach</button>
+                    <button class="reflection-topic-btn" type="button">Video-Based Anchored Instruction Strategy AND Video-Initiated Role-Play Strategy (Drama-Based Learning)</button>
                     <button class="reflection-topic-btn" type="button">Call and Response, And Learning Stations</button>
                 </div>
                 <div class="reflection-output-card" id="reflectionOutputCard">
@@ -561,7 +619,7 @@ reflectionsModal.addEventListener('click', (e) => {
 });
 
 // Studio Cert Carousel
-const studioPages = document.querySelectorAll('.studio-page');
+const studioPages = document.querySelectorAll('.studio-photo');
 const studioDots = document.querySelectorAll('.studio-dot');
 let currentStudioPage = 1;
 
@@ -600,3 +658,7 @@ studioDots.forEach(dot => {
         showStudioPage(pageNum);
     });
 });
+
+if (studioPages.length) {
+    showStudioPage(1);
+}
