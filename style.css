@@ -1383,47 +1383,9 @@ body {
     padding-right: 0;
 }
 
-.reviews .container {
-    max-width: none;
-    width: 100%;
-    min-height: 100vh;
-    display: flex;
-}
-
-.cert-showcase-header {
-    position: absolute;
-    top: 2.2rem;
-    left: 50%;
-    transform: translateX(-50%);
-    width: min(90%, 900px);
-    text-align: center;
-    margin: 0;
-    padding: 0 1rem;
-    z-index: 5;
-}
-
-.reviews .section-title {
-    margin-bottom: 0.35rem;
-}
-
-.cert-showcase-subtitle {
-    color: #676767;
-    font-size: 0.96rem;
-    letter-spacing: 0.8px;
-}
-
-.studio-carousel-container {
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 1.5rem;
-    margin-top: 1.5rem;
-}
-
 .studio-carousel-wrapper {
     flex: 1;
-    max-width: 900px;
+    max-width: 1400px;
     position: relative;
 }
 
